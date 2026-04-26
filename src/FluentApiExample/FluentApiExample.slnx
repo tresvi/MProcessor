@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BatchExample/BatchExample.csproj" />
+  <Project Path="FluentApiExample/FluentApiExample.csproj" />
+  <Project Path="FluentShoppingCart/FluentShoppingCart.csproj" />
+</Solution>
